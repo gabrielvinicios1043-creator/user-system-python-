@@ -1,21 +1,27 @@
-Sistema de Usuários em Python 
- Sistema de Usuários em Python
+#  Sistema de Usuários em Python
 
-Projeto simples de sistema de usuários com cadastro, login e gerenciamento.
+Projeto desenvolvido para praticar lógica de programação com Python.
 
- Funcionalidades
+##  Funcionalidades
 
-- Registro de usuários
-- Login de usuários
-- Logout
-- Listagem de usuários
+- Cadastro de usuários
+- Login e logout
+- Listagem de usuários cadastrados
 - Remoção de usuários
+- Validação de dados (evita duplicados e entradas inválidas)
 
- Tecnologias
+##  Tecnologias
 
-- Python
+- Python 3
 
- Como executar
+##  O que aprendi
+
+- Estruturas de repetição (`while`)
+- Condicionais (`if`, `elif`, `else`)
+- Listas e manipulação de dados
+- Lógica de sistemas (login, validação, controle de fluxo)
+
+##  Como executar
 
 ```bash
 python main.py
